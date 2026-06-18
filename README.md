@@ -1,4 +1,4 @@
-# Projeto-de-Algoritmos-e-Programa-o-de-Computadores-APC-
+# Projeto de Algoritmos e Programação de Computadores (APC)
 
 SIGAA Lite - Resumo do Projeto
 ---
